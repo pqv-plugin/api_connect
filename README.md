@@ -1,7 +1,5 @@
 Biblioteca Dart para conectar microserviços API em GraphQL da ApiConnect.
 
-Created from templates made available by Stagehand under a BSD-style
-
 ## Usage
 
 A simple usage example:
