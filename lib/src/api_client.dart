@@ -2,9 +2,6 @@ import 'api_storage.dart';
 
 class ApiClient {
   static Future<ApiStorage?> get storage async {
-    print("await ApiStorage.init(name: 'CLI')---->>>>");
-    print(await ApiStorage.init('CLI'));
-    print('oppppppppppppppppppppppppppppppppppppppppppppp');
     return await ApiStorage.init('CLI');
   }
 
