@@ -1,14 +1,12 @@
 Biblioteca Dart para conectar microserviços API em GraphQL da ApiConnect.
 
-## Usage
-
-A simple usage example:
+## Exemplo de Uso
 
 ```dart
 import 'package:api_connect/api_connect.dart';
 
 main() {
-  var awesome = new Awesome();
+  ApiConnect apiConnect = ApiConnect();
 }
 ```
 
